@@ -1,4 +1,2 @@
-aman-fh
-This repo is the source of all data analytics for Fithack
-
-aman-fh: Data Ingestion Data Processing Data Egestion Insights Predictive Prescriptive General
+Daily Updates and Code Repository
+Welcome to the Daily Updates and Codes repository! This repository serves as a collection of daily learnings, code snippets, and projects. It's intended to track progress, organize code solutions, and document daily programming and research activities.
