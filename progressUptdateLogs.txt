@@ -3,5 +3,6 @@
 2024-10-11 : Apple health data discussion, Understanding the code to optimize appl health data
 2024-10-14 : Optimizing the Vitality pillar for the apple health data.
 2024-10-15 : Optimizing all the remaining pillars for the apple health data.
-2024-10-16 : Showcasing Optimizatio and started working on OWS methodology
+2024-10-16 : Showcasing Optimization and started working on OWS methodology.
+2024-10-17 : Working on recovery OWS methodology.
 
