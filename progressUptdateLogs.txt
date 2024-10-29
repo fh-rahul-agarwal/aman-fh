@@ -7,4 +7,5 @@
 2024-10-17 : Working on hrv recovery score and rhr recovery score (OWS methodology for Recovery).
 2024-10-18 : Working on sleep recovery score and hrv modulation (OWS methodology for Recovery).
 2024-10-21 : Working on the documentation part for CICO model and implementation of same to track weight loss.
-
+2024-10-28 : Working on docstring of Apple health data.
+2024-10-29 : Checked different platforms for extracting data for android devices, Checked for SamsungHealth, Fitbit and Google fit data metrics.
